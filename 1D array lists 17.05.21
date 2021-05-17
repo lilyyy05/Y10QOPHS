@@ -1,0 +1,15 @@
+cars= []
+cars.append (input("enter a car brand eg bmw"))
+cars.append (input("enter a car brand eg bmw"))
+cars.append (input("enter a car brand eg bmw"))
+print(cars)                #challenge1:)
+
+cars= []
+loopAgain= True
+cars= str(input("Enter the name of a car brans or press x to exit"))
+if car == "x":
+  print ("exiting..")
+loopAgain = False
+if car!= "x":
+  cars.append(car)
+
